@@ -135,7 +135,7 @@
   day_of_week: 3
   reading:
     -
-     title: "HW02 due"-
+     title: "HW03 due"
 -
 ###################################
   start_new_week: true   # Week 11
@@ -180,7 +180,7 @@
   day_of_week: 3
   reading:
     -
-     title: "HW04 due"-
+     title: "HW04 due"
     -
      title: "Lab 14"
 -
@@ -196,7 +196,7 @@
   day_of_week: 0
   reading:
     -
-     title: "HW05 due"-
+     title: "HW05 due"
 -
   topic: "Final Exam"
   day_of_week: 3
