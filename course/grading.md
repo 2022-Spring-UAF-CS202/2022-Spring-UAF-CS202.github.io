@@ -16,7 +16,7 @@ The grading total breakdown is as follows:
 |---------------------------------------------------------------|
 | Final exam                             |     **12%**          |
 |---------------------------------------------------------------|
-
+
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
