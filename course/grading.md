@@ -4,21 +4,19 @@ In this course you will be assessed through quizzes, in-class labs, homework ass
 
 The grading total breakdown is as follows:
 
-| Assessment                                     |  Percentage          |
+| Assessment                             |  Percentage          |
 |---------------------------------------------------------------|
-| Quizzes                                            |       **6%**            |
+| Homework assignments                   |     **40%**          |
 |---------------------------------------------------------------|
-| In-class labs (36)                             |     **20%**            |
+| In-class labs                          |     **20%**          |
 |---------------------------------------------------------------|
-| Homework assignments (8)             |     **40%**            |
+| Project                                |     **10%**          |
 |---------------------------------------------------------------|
-| Project                                             |     **10%**            |
+| Mid-term exam                          |     **15%**          |
 |---------------------------------------------------------------|
-| Mid-term exam                                |     **12%**            |
+| Final exam                             |     **12%**          |
 |---------------------------------------------------------------|
-| Final exam                                       |     **12%**            |
-|---------------------------------------------------------------|
-
+
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
