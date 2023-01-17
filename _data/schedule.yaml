@@ -1,7 +1,7 @@
 -
   start_new_week: true   # Week 1
   topic: "Syllabus"
-  day_of_week: 0
+  day_of_week: 1
   reading:
     -
      title: "Course description"
@@ -28,8 +28,8 @@
        value: 1
        unit: "pages"
 -
-  topic: ""
-  day_of_week: 2
+  topic: "Review of topics from CS 201"
+  day_of_week: 3
 -
   topic: "Intro to C++"
 #  slides: ../assets/pdf/cs201-0101-intro-to-cpp-1.pdf
