@@ -101,16 +101,24 @@
   day_of_week: 1
   reading:
     -
-     title: "HW02 due"-
+     title: "HW02 due"
+    -
+     title: "Lab 07"
 -
   topic: "Operator Overloading"
   day_of_week: 3
+  reading:
+    -
+     title: "Lab 08"
 -
 ###################################
   start_new_week: true   # Week 8
 ###################################
   topic: "Implementing a SmartArray class"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 09"
 -
 ###################################
   start_new_week: true   # Week 9
@@ -140,28 +148,41 @@
   day_of_week: 1
   reading:
     -
-     title: "Take-home midterm due"  
+     title: "Take-home midterm due"
+    -
+     title: "Lab 10"
 -
   topic: "Inheritance"
   day_of_week: 3
+  reading:
+    -
+     title: "Lab 11"
 -
 ###################################
   start_new_week: true   # Week 13
 ###################################
   topic: "Inheritance: Polymorphism"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 12"
 -
 ###################################
   start_new_week: true   # Week 14
 ###################################
   topic: "Function Templates"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 13"
 -
   topic: "Class Templates"
   day_of_week: 3
   reading:
     -
      title: "HW04 due"-
+    -
+     title: "Lab 14"
 -
 ###################################
   start_new_week: true   # Week 15
