@@ -38,8 +38,10 @@
   day_of_week: 1
 -
   day_of_week: 3
-#  slides: ../assets/pdf/cs201-0201-flow-of-control-1.pdf
   topic: "Classes"
+  reading:
+    -
+     title: "HW00 due"
 -
 ###################################
   start_new_week: true   # Week 3
@@ -52,6 +54,11 @@
 ###################################
   topic: "Files and iostreams"
   day_of_week: 1
+-
+  day_of_week: 4
+  reading:
+    -
+     title: "HW01 due"-
 -
 ###################################
   start_new_week: true   # Week 5
@@ -73,6 +80,9 @@
 ###################################
   topic: "Static, Friend, Enum"
   day_of_week: 1
+  reading:
+    -
+     title: "HW02 due"-
 -
   topic: "Operator Overloading"
   day_of_week: 3
@@ -95,6 +105,11 @@
   start_new_week: true   # Week 10
 ###################################
 -
+  day_of_week: 3
+  reading:
+    -
+     title: "HW02 due"-
+-
 ###################################
   start_new_week: true   # Week 11
 ###################################
@@ -104,6 +119,9 @@
 ###################################
   topic: "Exceptions"
   day_of_week: 1
+  reading:
+    -
+     title: "Take-home midterm due"  
 -
   topic: "Inheritance"
   day_of_week: 3
@@ -122,6 +140,9 @@
 -
   topic: "Class Templates"
   day_of_week: 3
+  reading:
+    -
+     title: "HW04 due"-
 -
 ###################################
   start_new_week: true   # Week 15
@@ -132,5 +153,10 @@
 ###################################
   start_new_week: true   # Week 16
 ###################################
+  day_of_week: 0
+  reading:
+    -
+     title: "HW05 due"-
+-
   topic: "Final Exam"
   day_of_week: 3
