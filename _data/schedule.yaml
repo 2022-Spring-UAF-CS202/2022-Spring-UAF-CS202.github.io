@@ -30,6 +30,9 @@
 -
   topic: "Review of topics from CS 201"
   day_of_week: 3
+  reading:
+    -
+     title: "Lab 01"
 -
 ###################################
   start_new_week: true   # Week 2
@@ -48,17 +51,30 @@
 ###################################
   topic: "Pointers in C++"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 02"
+-
+  day_of_week: 3
+  reading:
+    -
+     title: "Lab 03"
 -
 ###################################
   start_new_week: true   # Week 4
 ###################################
   topic: "Files and iostreams"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 04"
 -
   day_of_week: 4
   reading:
     -
      title: "HW01 due"-
+    -
+     title: "Lab 05"
 -
 ###################################
   start_new_week: true   # Week 5
@@ -71,6 +87,9 @@
 ###################################
   topic: "Namespaces"
   day_of_week: 1
+  reading:
+    -
+     title: "Lab 06"
 -
   topic: "Operator Overloading"
   day_of_week: 3
